@@ -1,1 +1,1 @@
-ssh_public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAI... your@machine"
+ssh_public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINSyKG87/rjLNWdBVBP9KLaGnGLm0Tw4ibWDLvNahif6 noel@pc"
